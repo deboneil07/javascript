@@ -12,5 +12,5 @@ array2[0][1]
 array2[1][1] 
 array2[1][2][2] 
 array2[2][0][1] 
-array2[2][1][0] 
+console.log(array2[2][1][0])
 console.log(array2[2][1][1])
