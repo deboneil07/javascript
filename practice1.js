@@ -1,5 +1,5 @@
 function footballpoints (w,d,l) {
-
+// siuuuuu
 var totalpoints = (w*3+d*1+l*0);
 console.log(totalpoints);
 }
